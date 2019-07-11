@@ -1,0 +1,17 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/knoldus/Documents/untitled/working-with-lists/target/scala-2.13/working-with-lists_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	impl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/untitled/working-with-lists/target/scala-2.13/classes/impl[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app/ListApi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/untitled/working-with-lists/target/scala-2.13/classes/app/ListApi.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app/ListApi$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/untitled/working-with-lists/target/scala-2.13/classes/app/ListApi$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	impl/HigherOrderFunctions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/untitled/working-with-lists/target/scala-2.13/classes/impl/HigherOrderFunctions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	impl/FirstOrderFunctions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/untitled/working-with-lists/target/scala-2.13/classes/impl/FirstOrderFunctions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/untitled/working-with-lists/target/scala-2.13/classes/app[0m
+[0m[[0m[0mdebug[0m] [0m[0m	app/ListApi$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/knoldus/Documents/untitled/working-with-lists/target/scala-2.13/classes/app/ListApi$delayedInit$body.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
