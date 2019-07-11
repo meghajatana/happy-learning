@@ -1,1 +1,9 @@
-# happy-learning
+*.class
+*.log
+project/project
+project/target
+modules/**/project
+target
+.idea
+.worksheet
+.DS_Store
